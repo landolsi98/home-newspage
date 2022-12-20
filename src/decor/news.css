@@ -1,0 +1,36 @@
+.news {
+    color: rgb(255, 4, 4);
+}
+.news_title_s {
+
+    word-wrap: break-word;
+    font-size: 11pt;
+    text-decoration: none;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    color: red;
+    margin-top: 8px;
+    margin-bottom: 1px;
+    font-size: small;
+}
+.news_title_L {
+ 
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25pt;
+    color: black;
+    line-height: 40px;
+
+}
+
+.grande-photo1 {
+
+    max-width: 610px;
+    min-height: 430px;
+    max-height: 900px;
+
+
+}

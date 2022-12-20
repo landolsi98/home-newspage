@@ -1,0 +1,66 @@
+.Home {
+
+    background-color: red;
+}
+.news_title_L {
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25pt;
+    color: black;
+    line-height: 40px;
+}
+
+
+
+.grande-photo1 {
+
+    max-width: 600px;
+    min-height: 430px;
+    max-height: 900px;
+
+
+}
+
+
+
+
+.petite-photo1 {
+    padding-top: 50px;
+    max-width: 250px;
+
+
+}
+
+
+
+
+.news_title_s  {
+    word-wrap: break-word;
+    font-size: 11pt;
+    text-decoration: none;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
+}
+
+p {
+    color: red;
+    margin-bottom: 1px;
+}
+.p2 {
+    color: red;
+    margin-top: 5px;
+    font-size: 11px;
+
+}
+
+#block1 {
+    border-width: 600px;
+    border-color: aqua;
+
+}
+#back {
+    color: blue;
+}
